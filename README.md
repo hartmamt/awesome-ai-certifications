@@ -39,10 +39,11 @@ each entry links to that page so you can verify it yourself.
 | [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) | AIF-C01 | 65 | 90 min | $100 | 3 yr | Yes |
 | [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) | MLA-C01 | 65 | 130 min | $150 | 3 yr | Yes |
 | [Google Cloud Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer) | — | 50–60 | 120 min | $200 | See renewal FAQ | Yes |
+| [Google Cloud Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader) | — | 50–60 | 90 min | $99 | 3 yr | Yes |
 | [NVIDIA Certified Associate: Generative AI LLMs](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/) | NCA-GENL | 50–60 | 60 min | $125 | 2 yr | Yes |
 | [Databricks Certified Generative AI Engineer Associate](https://www.databricks.com/learn/certification/genai-engineer-associate) | — | 45 | 90 min | $200 | 2 yr | Yes |
-| [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) | AI-103 | — | 120 min | Varies by region | — | Yes |
-| [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | AI-901 | — | — | Varies by region | — | Yes |
+| [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) | AI-103 | — | 120 min | Varies by region | 1 yr, renewal is free | Yes |
+| [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | AI-901 | — | — | Varies by region | [See renewal policy](https://learn.microsoft.com/en-us/credentials/certifications/renew-your-microsoft-certification) | Yes |
 | [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | AI-102 | — | 100 min | — | — | **Retired** |
 
 ## Anthropic (Claude)
@@ -82,9 +83,20 @@ Microsoft renamed and renumbered its whole Azure AI track in 2026, which makes o
 and most third-party summaries misleading. Both certifications below are current.
 
 - [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) -
-  Exam **AI-103**. 120 minutes, intermediate, scheduled through Pearson VUE. Covers generative AI and
-  agentic solutions, computer vision, text analysis and information extraction, built on Python and
-  Microsoft Foundry. Retake allowed 24 hours after a first failure.
+  Exam **AI-103: Developing AI Apps and Agents on Azure**. 120 minutes, intermediate, scheduled
+  through Pearson VUE, **700 to pass**. Assumes Python and Microsoft Foundry. Retake allowed 24 hours
+  after a first failure. Published domain weights, current as of the 16 April 2026 skills update:
+
+  | Domain | Weight |
+  | --- | --- |
+  | Implement generative AI and agentic solutions | 30–35% |
+  | Plan and manage an Azure AI solution | 25–30% |
+  | Implement computer vision solutions | 10–15% |
+  | Implement text analysis solutions | 10–15% |
+  | Implement information extraction solutions | 10–15% |
+
+- [AI-103 study guide](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-103) -
+  Official, and unusually detailed: every skill bullet the exam assesses, free.
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) -
   Exam **AI-901** (formerly AI-900). Entry level. Updated 15 April 2026 to add generative AI
   workloads and Microsoft Foundry.
@@ -95,13 +107,21 @@ and most third-party summaries misleading. Both certifications below are current
 Microsoft does not publish a single exam price — it is set by the country or region the exam is
 proctored in, so check at registration.
 
+**Renewal is the detail worth knowing.** Microsoft associate, expert and specialty
+certifications expire annually, which sounds worse than Anthropic's 12 months until you read
+the next line: you renew by passing a *free* online assessment on Microsoft Learn, not by
+re-sitting a paid proctored exam.
+
 ## Google Cloud
 
 - [Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer) -
   50–60 questions, 2 hours, $200. No prerequisites; 3+ years of industry experience recommended.
   Recently updated for the move from Vertex AI to the Gemini Enterprise Agent Platform.
+- [Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader) -
+  50–60 questions, 90 minutes, $99, valid 3 years, no prerequisites. Explicitly non-technical —
+  aimed at any role, covering gen AI fundamentals, Google's offerings, and business strategy.
 - [Sample questions](https://docs.google.com/forms/d/e/1FAIpQLSeYmkCANE81qSBqLW0g2X7RoskBX9yGYQu-m1TtsjMvHabGqg/viewform) -
-  Free official sample set.
+  Free official sample set for the ML Engineer exam.
 - [ML Engineer learning path](https://skills.google/paths/17) - Official free path on
   Google Skills (formerly CloudSkillsBoost).
 
@@ -147,6 +167,9 @@ A few things that are easy to miss when comparing:
 - **Retake policy is worth reading before you book, not after.** Anthropic escalates 14 → 30 → 90
   days. Microsoft allows a retake 24 hours after a first failure. Costs and waiting periods differ
   enormously.
+- **Passing scores are not comparable across vendors.** Anthropic scales 100–1000 and needs
+  720. Microsoft scales to 1000 and needs 700. Neither is a percentage, and neither publishes
+  how many questions that actually means.
 - **Vendor-neutral AI certifications barely exist.** Every credential here certifies you on one
   company's platform. Weigh that against how portable you need the signal to be.
 
