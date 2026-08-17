@@ -161,4 +161,5 @@ See [contributing.md](contributing.md).
 
 ## License
 
-[CC0](LICENSE) — no rights reserved.
+Public domain, under [CC0](LICENSE). Copy, republish, or translate any of this freely — no
+permission needed and no credit required.
