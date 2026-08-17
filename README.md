@@ -3,8 +3,8 @@
 > A curated list of AI and machine learning certifications — what each one costs, how long it
 > lasts, who can sit it, and what happens when you fail.
 
-Every major vendor now runs an AI certification. The exams change fast: one retired in June 2026,
-another gets replaced in September 2026, and one is not open to the general public at all. The
+Every major vendor now runs an AI certification. The exams change fast: one retired in June 2026, another was
+renumbered in April, another gets replaced in September, and one is not open to the general public at all. The
 facts that decide whether a certification is worth your time — the retake window, the validity
 period, whether you are even eligible to register — are scattered across FAQs and policy pages
 that nobody consolidates.
@@ -41,6 +41,8 @@ each entry links to that page so you can verify it yourself.
 | [Google Cloud Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer) | — | 50–60 | 120 min | $200 | See renewal FAQ | Yes |
 | [NVIDIA Certified Associate: Generative AI LLMs](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/) | NCA-GENL | 50–60 | 60 min | $125 | 2 yr | Yes |
 | [Databricks Certified Generative AI Engineer Associate](https://www.databricks.com/learn/certification/genai-engineer-associate) | — | 45 | 90 min | $200 | 2 yr | Yes |
+| [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) | AI-103 | — | 120 min | Varies by region | — | Yes |
+| [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | AI-901 | — | — | Varies by region | — | Yes |
 | [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | AI-102 | — | 100 min | — | — | **Retired** |
 
 ## Anthropic (Claude)
@@ -76,11 +78,22 @@ source; they are the same two exams.
 
 ## Microsoft Azure
 
+Microsoft renamed and renumbered its whole Azure AI track in 2026, which makes older study material
+and most third-party summaries misleading. Both certifications below are current.
+
+- [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) -
+  Exam **AI-103**. 120 minutes, intermediate, scheduled through Pearson VUE. Covers generative AI and
+  agentic solutions, computer vision, text analysis and information extraction, built on Python and
+  Microsoft Foundry. Retake allowed 24 hours after a first failure.
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) -
+  Exam **AI-901** (formerly AI-900). Entry level. Updated 15 April 2026 to add generative AI
+  workloads and Microsoft Foundry.
 - [Microsoft Certified: Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) -
   **Retired 30 June 2026.** Existing holders keep it on their transcript; it can no longer be earned
-  or renewed. Replaced by the AI-103 path.
-- [Microsoft Credentials](https://learn.microsoft.com/en-us/credentials/) - Official catalogue.
-  Start here for the current Azure AI path rather than any third-party summary, this one included.
+  or renewed. AI-103 is its successor.
+
+Microsoft does not publish a single exam price — it is set by the country or region the exam is
+proctored in, so check at registration.
 
 ## Google Cloud
 
@@ -111,8 +124,10 @@ source; they are the same two exams.
 
 The single most useful thing about tracking these exams is knowing which ones are about to move.
 
-- **Microsoft AI-102 retired 30 June 2026.** Replaced by the AI-103 path (Azure AI Apps and Agents
-  Developer Associate). Do not start studying AI-102 material.
+- **Microsoft AI-102 retired 30 June 2026.** Replaced by AI-103 (Azure AI Apps and Agents
+  Developer Associate), which is live now. Do not start studying AI-102 material.
+- **Microsoft's fundamentals exam was renumbered AI-900 to AI-901** and updated on 15 April 2026
+  to cover generative AI and Microsoft Foundry. Material written for AI-900 predates that.
 - **AWS MLA-C01 English closes 28 September 2026**, with MLA-C02 opening 1 September 2026. If you
   are booking near that window, check which version you are sitting.
 - **Anthropic revised its whole certification portfolio in 2026** — names, pricing and paths all
@@ -154,8 +169,8 @@ Corrections are especially welcome — this list is only useful if the numbers a
 certification details change without notice. If a figure here is stale, please open an issue or a
 PR with a link to the vendor page that contradicts it.
 
-Gaps I know about and would welcome help with: Microsoft's AI-103 details once published,
-IBM and Snowflake AI credentials, Hugging Face, and any non-US-centric certifications.
+Gaps I know about and would welcome help with: Microsoft exam pricing by region, IBM and
+Snowflake AI credentials, Hugging Face, and any non-US-centric certifications.
 
 See [contributing.md](contributing.md).
 
