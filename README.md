@@ -42,9 +42,12 @@ each entry links to that page so you can verify it yourself.
 | [Google Cloud Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader) | — | 50–60 | 90 min | $99 | 3 yr | Yes |
 | [NVIDIA Certified Associate: Generative AI LLMs](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/) | NCA-GENL | 50–60 | 60 min | $125 | 2 yr | Yes |
 | [Databricks Certified Generative AI Engineer Associate](https://www.databricks.com/learn/certification/genai-engineer-associate) | — | 45 | 90 min | $200 | 2 yr | Yes |
-| [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) | AI-103 | — | 120 min | Varies by region | 1 yr, renewal is free | Yes |
-| [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | AI-901 | — | — | Varies by region | [See renewal policy](https://learn.microsoft.com/en-us/credentials/certifications/renew-your-microsoft-certification) | Yes |
-| [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | AI-102 | — | 100 min | — | — | **Retired** |
+| [Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) | AI-103 | Not published | 120 min | Varies by region | 1 yr, renewal is free | Yes |
+| [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) | AI-901 | Not published | Not published | Varies by region | [See renewal policy](https://learn.microsoft.com/en-us/credentials/certifications/renew-your-microsoft-certification) | Yes |
+| [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | AI-102 | Not published | 100 min | — | — | **Retired** |
+
+*"Not published" means the vendor does not state the figure, not that it was not checked.
+Microsoft publishes neither item counts nor a flat exam price.*
 
 ## Anthropic (Claude)
 
@@ -98,8 +101,10 @@ and most third-party summaries misleading. Both certifications below are current
 - [AI-103 study guide](https://learn.microsoft.com/credentials/certifications/resources/study-guides/ai-103) -
   Official, and unusually detailed: every skill bullet the exam assesses, free.
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) -
-  Exam **AI-901** (formerly AI-900). Entry level. Updated 15 April 2026 to add generative AI
-  workloads and Microsoft Foundry.
+  Exam **AI-901** (formerly AI-900). Entry level, **700 to pass**, no retirement date announced.
+  Updated 15 April 2026 to add generative AI workloads and Microsoft Foundry. Two domains:
+  identify AI concepts and capabilities (40–45%), implement AI solutions using Microsoft
+  Foundry (55–60%). Available in 13 languages, the widest of any certification here.
 - [Microsoft Certified: Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) -
   **Retired 30 June 2026.** Existing holders keep it on their transcript; it can no longer be earned
   or renewed. AI-103 is its successor.
