@@ -153,8 +153,10 @@ The single most useful thing about tracking these exams is knowing which ones ar
   Developer Associate), which is live now. Do not start studying AI-102 material.
 - **Microsoft's fundamentals exam was renumbered AI-900 to AI-901** and updated on 15 April 2026
   to cover generative AI and Microsoft Foundry. Material written for AI-900 predates that.
-- **AWS MLA-C01 English closes 28 September 2026**, with MLA-C02 opening 1 September 2026. If you
+- **AWS MLA-C01 English closed 28 September 2026.** MLA-C02 beta delivery began 29 September 2026,
+  and MLA-C02 general availability is 14 January 2027, when MLA-C01 retires in all languages. If you
   are booking near that window, check which version you are sitting.
+  ([AWS](https://aws.amazon.com/blogs/training-and-certification/september-2026-new-offerings/))
 - **Anthropic revised its whole certification portfolio in 2026** — names, pricing and paths all
   changed, which is why the Architect exams appear under two sets of initials.
 - **Google's ML Engineer exam was updated** for the Vertex AI to Gemini Enterprise Agent Platform
@@ -190,6 +192,8 @@ nothing.
 - [AI Certificates](https://aicertificates.study) - Free full-length practice exams for the four
   Claude certifications, no signup, with every answer option explained. *Maintainer's own site;
   paid versions exist elsewhere.*
+- [ExamCrest MLA-C02 free questions](https://examcrest.com/exam/aws-mla-c02/free-questions?utm_source=github&utm_campaign=hartmamt-ai) - Free MLA-C02
+  sample questions with every option explained, no signup. *Paid full mock tests exist; I run ExamCrest.*
 
 ## Contributing
 
